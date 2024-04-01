@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavan</h1>
-<h3 align="center">I'm Devops Engineer from India</h3>
+<h3 align="center">Devops Engineer from India</h3>
 
 - 📫 How to reach me **parmarpavanjet@gmail.com**
 
